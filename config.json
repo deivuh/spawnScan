@@ -1,12 +1,19 @@
 {
 	"auth_service": "ptc",
 	"users":[
-		{"username": "user1", "password": "pass1"},
-		{"username": "user2", "password": "pass2"}
+		{"username": "squallqwert", "password": "4r3e2w1q"},
+		{"username": "squallasdfg", "password": "4r3e2w1q"},
+		{"username": "squallzxcvb", "password": "4r3e2w1q"},
+		{"username": "squalltrewq", "password": "4r3e2w1q"},
+		{"username": "squallgfdsa", "password": "4r3e2w1q"},
+		{"username": "squallbvcxz", "password": "4r3e2w1q"},
+		{"username": "squallqazws", "password": "4r3e2w1q"},
+		{"username": "squallwsqaz", "password": "4r3e2w1q"},
+		{"username": "squallxedcr", "password": "4r3e2w1q"},
+		{"username": "squallredcx", "password": "4r3e2w1q"}
 	],
 	"work":[
-		[lat1,long1, lat2,long2],
-		[lat1,long1, lat2,long2]
+		[14.683417, -90.590640, 14.568562, -90.452838]
 	],
 	"stepsPerPassPerWorker": 50,
 	"scanDelay": 10.2
